@@ -69,5 +69,5 @@ The objective of this simulation was to analyze snacking chips customer data, ev
   ## 👤 Author
 
 **Siddharth Gada**  
-📧 Email: gadasiddharth@gmail.com 
-🔗 LinkedIn: [[your-link]  ](https://www.linkedin.com/in/siddharthgada/)
+📧 Email: gadasiddharth@gmail.com <br>
+🔗 LinkedIn: https://www.linkedin.com/in/siddharthgada/
