@@ -46,7 +46,7 @@ The objective of this simulation was to analyze snacking chips customer data, ev
 - Delivered recommendations based on sales lift and engagement patterns
 
 **Files:**
-- Dataset File **(Created after running code in Task 1)**: `QVI_data`
+- Dataset File **(Created after running code in Task 1)**: `QVI_data.zip` - Unzip file to view dataset
 - Code File: `Retail Strategy and Analytics - Task 2.Rmd`
 - Code with Output/Results File: `Retail Strategy and Analytics - Task 2.pdf`
   
