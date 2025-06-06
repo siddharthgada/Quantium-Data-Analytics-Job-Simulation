@@ -26,6 +26,11 @@ The objective of this simulation was to analyze snacking chips customer data, ev
 - Found growth potential among **Young and Older Families**
 - Observed consistent affluence across life stages but higher engagement from family groups
 
+**Files:**
+- Dataset Files: `QVI_purchase_behaviour`, `QVI_transaction_data`
+- Code File: `Data Exploration and Analysis - Task 1.Rmd`
+- Code with Output/Results File: `Data Exploration and Analysis - Task 1.pdf`
+  
 ### Task 2: 🧪 Trial vs Control Store Analysis
 
 **Objective:** Find control stores based on the prior performance of the trial stores
@@ -40,6 +45,11 @@ The objective of this simulation was to analyze snacking chips customer data, ev
 - Identified control stores for the trial stores
 - Delivered recommendations based on sales lift and engagement patterns
 
+**Files:**
+- Dataset File (Created after running code in Task 1): `QVI_data`
+- Code File: `Retail Strategy and Analytics - Task 2.Rmd`
+- Code with Output/Results File: `Retail Strategy and Analytics - Task 2.pdf`
+  
 ### Task 3: 📊 Insights & Reporting
 
 **Objective:** Structure insights using the **Pyramid Principle** and present to stakeholders.
@@ -54,6 +64,10 @@ The objective of this simulation was to analyze snacking chips customer data, ev
 - Slide-ready visuals
 - Strategic insights for scaling the layout intervention across stores
 
+**Files:**
+- PowerPoint Presentation: `Presentation_BRAND - Task 3.pptx`
+- File for client: `Presentation_BRAND - Task 3.pdf`
+  
   ## 📊 Technologies Used:
 
 - **R** (`dplyr`, `tidyr`, `ggplot2`, `ggmosaic`, `lubridate`, `scale`, )
