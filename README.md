@@ -40,7 +40,7 @@ The objective of this simulation was to analyze snacking chips customer data, ev
 - Identified control stores for the trial stores
 - Delivered recommendations based on sales lift and engagement patterns
 
-  ### Task 3: 📊 Insights & Reporting
+### Task 3: 📊 Insights & Reporting
 
 **Objective:** Structure insights using the **Pyramid Principle** and present to stakeholders.
 
